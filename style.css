@@ -25,10 +25,23 @@
     top: 5px;
 }
 
+#cancel01{
+    text-decoration: line-through;
+}
+
 #strong01 {
     text-decoration: underline double red;
     color: orangered;
     font-size: 150%;
+}
+
+#strong02{
+    color:red;
+}
+
+#strong03{
+    color:black;
+    font-weight: bold;
 }
 
 #big01 {
