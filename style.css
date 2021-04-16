@@ -29,6 +29,11 @@
     text-decoration: line-through;
 }
 
+#cancel02{
+    text-decoration: line-through;
+    font-size: 75%;
+}
+
 #strong01 {
     text-decoration: underline double red;
     color: orangered;
